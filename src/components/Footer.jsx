@@ -92,7 +92,7 @@ const Footer = () => {
       </div>
       <div className="mt-20">
         <p className="text-gray-300 text-center">
-          © jotredev 2022 - All Rights Reserved
+          © Jonathan Fernandez Ruiz - FullStack React & Django | jonatanfernandezar@gmail.com (+57 3104209742)
         </p>
       </div>
     </footer>
